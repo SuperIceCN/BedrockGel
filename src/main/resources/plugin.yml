@@ -1,0 +1,7 @@
+name: BedrockGel
+main: site.superice.bedrockgel.Main
+version: "0.0.1"
+api: ["1.0.14"]
+load: POSTWORLD
+authors: ["Superice666"]
+description: Aperture Science gels in MCBE.

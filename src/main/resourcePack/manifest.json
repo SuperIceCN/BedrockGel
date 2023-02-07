@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "BedrockGel RP",
+    "name": "BedrockGel",
+    "uuid": "9e558a96-fba3-472a-b064-f69c98224a18",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "BedrockGel RP",
+      "type": "resources",
+      "uuid": "5543ae43-bcc9-4c0e-90ae-b5a670c89c3a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
